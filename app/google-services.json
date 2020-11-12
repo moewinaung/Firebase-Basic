@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050794138131",
+    "firebase_url": "https://moe-win-aung1.firebaseio.com",
+    "project_id": "moe-win-aung1",
+    "storage_bucket": "moe-win-aung1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050794138131:android:a5fc13baed2fb9bb2e7de6",
+        "android_client_info": {
+          "package_name": "com.mwa.base1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050794138131-ikgbjk49m8mfv4v31n0gf4rlnri9op83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6udhhMKHgb8jo_KALHY0B-VN87t4_FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050794138131-ikgbjk49m8mfv4v31n0gf4rlnri9op83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
